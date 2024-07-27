@@ -1,0 +1,12 @@
+### GET request to example server
+GET http://localhost:3000/articles
+
+###
+
+POST http://localhost:3000/articles
+Content-Type: application/json
+
+{
+  "title": "Hello World 2",
+  "content": "This is a test article 2"
+}
