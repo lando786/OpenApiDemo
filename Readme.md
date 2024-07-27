@@ -6,4 +6,4 @@
 
 1. `npm run start` to start the server
 
- test.html includes the calls with an example on how to use the generated types
+#### test.http includes the calls with an example on how to use the generated types
